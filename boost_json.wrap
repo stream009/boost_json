@@ -1,0 +1,3 @@
+[wrap-git]
+url = git@github.com:stream009/boost_json.git
+revision = HEAD
